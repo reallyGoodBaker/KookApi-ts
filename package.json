@@ -1,0 +1,23 @@
+{
+  "name": "kookapi-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc",
+    "test": "tsc && node dist/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reallyGoodBaker/KookApi-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reallyGoodBaker/KookApi-ts/issues"
+  },
+  "homepage": "https://github.com/reallyGoodBaker/KookApi-ts#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.19"
+  }
+}
